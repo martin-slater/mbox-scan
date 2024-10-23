@@ -1,0 +1,4 @@
+searches/
+*.mbox
+.output
+.pyenv
