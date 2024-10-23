@@ -19,6 +19,8 @@ You can run `python scan.py -h` to see all the command line arguments. The only 
 python scan.py options.json
 ```
 
+Currently you need to name the mailbox to be searched as `mailbox.mbox`.
+
 ## Example options file
 
 ```json
